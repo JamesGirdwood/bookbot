@@ -15,8 +15,6 @@ def main():
 
     #The second argyment in sys.argv is the path to the book
     file_path = sys.argv[1]
-    # Path to the book file
-    file_path = "books/frankenstein.txt"
     
     # Print the header with the book file path
     print(f"=========== BOOKBOT ============")
